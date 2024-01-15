@@ -28,7 +28,7 @@
                     <h2 class="my-3">Bayar Pemesanan</h2>
                     Untuk pembayaran silahkan transfer ke rekenening :
                     <br>
-                    BCA 3930696764 <br> a.n Arrico Handyanto
+                    BCA 3930696764 <br> M syamsul M
                     <br>
                     Setelah itu upload bukti pembayaran di bawah ini.
                     <br><br>
